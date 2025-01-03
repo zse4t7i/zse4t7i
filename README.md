@@ -1,22 +1,21 @@
 # 👋 Bonjour, je m'appelle Hugo!
 
+## 📜 Hugo.Researching
 
-## 📜 Hugo.Write
+![](./Hugo.Figure/8.jpg)
 
-![](./Hugo.Figure/6.jpg)
-
-## 🖥️ Hugo.Develop
+## ⌨️ Hugo.Developing
 
 ![](./Hugo.Figure/3.jpg)
 
-## 📏 Hugo.Design
+## 📐 Hugo.Designing
 
-![](./Hugo.Figure/5.jpg)
+![](./Hugo.Figure/6.jpg)
 
-## 🎧 Hugo.Music
+## 🎧 Hugo.Composing
 
-![](./Hugo.Figure/10.jpg)
+![](./Hugo.Figure/4.jpg)
 
-## 🎮 Hugo.Game
+## 🎮 Hugo.Gaming
 
 ![](./Hugo.Figure/7.jpg)
