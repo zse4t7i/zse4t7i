@@ -1,21 +1,21 @@
-# 👋 Bonjour, je m'appelle Hugo!
+# 👋 Bonjour, je suis zse4t7i!
 
-## 📜 Hugo.Researching
+## 📜 zse4t7i.Research()
 
-![](./Hugo.Figure/8.jpg)
+![](./zse4t7i.figure/8.jpg)
 
-## ⌨️ Hugo.Developing
+## ⌨️ zse4t7i.Develop()
 
-![](./Hugo.Figure/3.jpg)
+![](./zse4t7i.figure/3.jpg)
 
-## 📐 Hugo.Designing
+## 📐 zse4t7i.Design()
 
-![](./Hugo.Figure/6.jpg)
+![](./zse4t7i.figure/6.jpg)
 
-## 🎧 Hugo.Composing
+## 🎧 zse4t7i.Compose()
 
-![](./Hugo.Figure/4.jpg)
+![](./zse4t7i.figure/4.jpg)
 
-## 🎮 Hugo.Gaming
+## 🎮 zse4t7i.Game()
 
-![](./Hugo.Figure/7.jpg)
+![](./zse4t7i.figure/7.jpg)
