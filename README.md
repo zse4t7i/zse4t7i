@@ -16,6 +16,6 @@
 
 ![](./zse4t7i.figure/4.jpg)
 
-## 🎮 zse4t7i.Rest()
+## 🎮 zse4t7i.Game()
 
 ![](./zse4t7i.figure/7.jpg)
